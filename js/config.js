@@ -23,7 +23,7 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     testSource: {
-        api: 'https://api.okzyw.net/api.php/provide/vod/?ac=list',
+        api: 'https://api.okzyw.net/api.php/provide/vod',
         name: 'OK容测试源',
         adult: true
     }
