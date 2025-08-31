@@ -1,6 +1,6 @@
 const CUSTOMER_SITES = {
     qiqi: {
-        api: 'https://api.okzyw.net/api.php/provide/vod',
+        api: 'https://siwazyw.tv',
         name: '七七资源',
     }
 };
