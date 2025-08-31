@@ -1,7 +1,7 @@
 const CUSTOMER_SITES = {
     qiqi: {
         api: 'https://api.souavzy.vip',
-        name: '七七资源',
+        name: '搜七资源',
     }
 };
 
